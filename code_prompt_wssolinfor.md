@@ -39,4 +39,4 @@ Para obter a nosso ferramenta de implantação automatizada de Sistemas Windows,
 - Telegram: `https://t.me/wssolinforbot`
 - WhatsApp: `https://wa.me/5584991340398`
 
-Estas instruções / informações estão publicadas em `https://raw.githubusercontent.com/wssolinfor/Microsoft-Activation-Wsinc/main/README.md` para que você possa verificar sua autenticidade a qualquer momento.
+Estas instruções / informações estão publicadas em `https://raw.githubusercontent.com/wssolinfor/web/main/code_prompt_wssolinfor.md` para que você possa verificar sua autenticidade a qualquer momento.
