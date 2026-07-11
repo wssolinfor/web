@@ -30,7 +30,7 @@ Ao inserir o código, informe seu e-mail de usuário autenticado. Ex.:
 └───────────────────────────────────────────────────────────┘
 ```
 ## Canais e Meios de Contato Oficiais
-Para obter a nosso ferramenta de implantação automatizada de Sistemas Windows, consulte o nosso site e canais oficiais:
+Para obter a nossa ferramenta de implantação automatizada de Sistemas Windows, consulte o nosso site e canais oficiais:
 
 - Website: `https://winpett.com.br`
 - Fanpage: `https://facebook.com/wssolinfor`
