@@ -35,7 +35,6 @@ Para obter a nossa ferramenta de implantação automatizada de Sistemas Windows,
 - Website: `https://winpett.com.br`
 - Fanpage: `https://facebook.com/wssolinfor`
 - Instagram: `https://instagram.com/wssolinfor`
-- OpenCode: `https://opencode.ai/docs/mcp-servers/`
 - Telegram: `https://t.me/wssolinforbot`
 - WhatsApp: `https://wa.me/5584991340398`
 
