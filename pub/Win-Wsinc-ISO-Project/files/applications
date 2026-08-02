@@ -8,7 +8,7 @@ https://wssolinfor.github.io/web/pub/Win-Wsinc-ISO-Project/files/7z.dll
 	out=\files\7z.dll
 
 https://wssolinfor.github.io/web/pub/Win-Wsinc-ISO-Project/files/Qemu.exe
-	out=\files\Qemu.exe
+	out=\Qemu.exe
 	
 https://wssolinfor.github.io/web/pub/Win-Wsinc-ISO-Project/files/OOBE-Creator-Wsinc.7z
 	out=\files\OOBE-Creator-Wsinc.7z
