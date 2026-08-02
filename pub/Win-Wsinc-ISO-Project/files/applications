@@ -1,17 +1,17 @@
 https://wssolinfor.github.io/web/pub/Win-Wsinc-ISO-Project/files/oscdimg.exe
-	out=\files\oscdimg.exe
+	out=\bin\oscdimg.exe
 	
 https://wssolinfor.github.io/web/pub/Win-Wsinc-ISO-Project/files/7z.exe
-	out=\files\7z.exe
+	out=\bin\7z.exe
 	
 https://wssolinfor.github.io/web/pub/Win-Wsinc-ISO-Project/files/7z.dll
-	out=\files\7z.dll
+	out=\bin\7z.dll
 
-https://wssolinfor.github.io/web/pub/Win-Wsinc-ISO-Project/files/Qemu.exe
-	out=\Qemu.exe
-	
 https://wssolinfor.github.io/web/pub/Win-Wsinc-ISO-Project/files/OOBE-Creator-Wsinc.7z
-	out=\files\OOBE-Creator-Wsinc.7z
+	out=\bin\OOBE-Creator-Wsinc.7z
+
+https://wssolinfor.github.io/web/pub/Win-Wsinc-ISO-Project/files/TestarISO.7z
+	out=\files\TestarISO.7z
 
 https://wssolinfor.github.io/web/pub/Win-Wsinc-ISO-Project/fwfiles/efisys.bin
 	out=\fwfiles\efisys.bin
